@@ -1,0 +1,1 @@
+# Este é um algoritmo em JavaScript que organiza vetores em ordem crescente baseando-se no "Selection sort".
